@@ -18,7 +18,7 @@ function A() {
 }
 
 function B() {
-    modal('i know you waiting i told you', C);
+    modal('i know you waiting i told you!', C);
 }
 
 function C() {
@@ -42,16 +42,16 @@ function G() {
 }
 
 function H() {
-    modal('I will buy a lot of thing for you', I);
+    modal('I will be comb your hair!', I);
 }
  function I() {
-    modal('I will be care you!', J)
+    modal('I will be care about you!', J)
 }
 function I() {
     modal('I will be tolerate you!', J)
 }
 function I() {
-    modal('I will be accept you', J)
+    modal('I will be accept you!', J)
 }
 function I() {
     modal('I will be respect!', J)
