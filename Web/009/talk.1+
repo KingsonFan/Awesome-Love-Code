@@ -1,6 +1,6 @@
 $(function() {
     $('#yes').click(function(event) {
-        modal('我就知道小宝宝一定会愿意~(^_^)', function() {
+        modal('I knew the you would be willing~(^_^)', function() {
             $('.page_one').addClass('hide');
             $('.page_two').removeClass('hide');
             // typeWrite();
@@ -9,59 +9,59 @@ $(function() {
         });
     });
     $('#no').click(function(event) {
-        modal('明人不说暗话！', A);
+        modal('Let me tell you！', A);
     });
 });
 
 function A() {
-    modal('我爱你！', B);
+    modal('I Love you！', B);
 }
 
 function B() {
-    modal('我知道你在等我这一句话', C);
+    modal('i know you waiting i told you', C);
 }
 
 function C() {
-    modal('请宝宝不要拒绝我嘛~', D);
+    modal('please don't reject me!', D);
 }
 
 function D() {
-    modal('拒绝我，不存在的', E);
+    modal('I want you!', E);
 }
 
 function E() {
-    modal('这辈子都不可能让你离开我的!!!', F);
+    modal('I need you!', F);
 }
 
 function F() {
-    modal('跟我走吧宝宝~', G);
+    modal('I Love you!', G);
 }
 
 function G() {
-    modal('房产证上写你的名字', H);
+    modal('I will work hard for you!', H);
 }
 
 function H() {
-    modal('我会做饭', I);
+    modal('I will buy a lot of thing for you', I);
 }
  function I() {
-    modal('我会买很多东西给你', J)
+    modal('I will be care you!', J)
 }
 function I() {
-    modal('会好好疼你', J)
+    modal('I will be tolerate you!', J)
 }
 function I() {
-    modal('会哄你睡觉', J)
+    modal('I will be accept you', J)
 }
 function I() {
-    modal('会唱歌给你听', J)
+    modal('I will be respect!', J)
 }
 function I() {
-    modal('爱你。么么哒！', J)
+    modal('Can you give me a chance?', J)
 }
 
 function J() {
-    modal('行，我们去民政局登记吧', function() {
+    modal('♡♡♡ I LOVE YOU ♡♡♡', function() {
         fireworks();
     });
 }
